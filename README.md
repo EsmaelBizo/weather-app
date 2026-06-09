@@ -177,9 +177,10 @@ Please provide a clear description of your changes and link any related issues.
 
 ## 📬 Contact
 
-Author: Esmael Bizo
-GitHub: https://github.com/EsmaelBizo
-LinkedIn: https://linkedin.com/in/esmael-bizo-9324413a1
+**Esmael Bizo**
+
+- GitHub: https://github.com/EsmaelBizo
+- LinkedIn: https://linkedin.com/in/esmael-bizo-9324413a1
 
 ---
 
